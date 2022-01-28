@@ -1,0 +1,30 @@
+  
+  .input {
+    height: 10px;
+    padding: 0.5rem 1rem;
+    border: 0.2rem solid #a19f9f;
+    border-radius: 0.3rem;
+    font-family: inherit;
+    font-size: 1.4rem;
+  }
+
+  .inputQuery {
+    height: 60px;
+    width: 600px;
+    padding: 0.5rem 1rem;
+    border: 0.1rem solid #a19f9f;
+    border-radius: 0.7rem;
+    font-family: inherit;
+    font-size: 1.4rem;
+  }
+
+  .adminLogin {
+    margin-top: 2%;
+    height: 60px;
+    width: 600px;
+    border: 0.1rem solid #a19f9f;
+    border-radius: 0.7rem;
+    font-family: inherit;
+    font-size: 1.4rem;
+  }
+  

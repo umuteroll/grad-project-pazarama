@@ -1,0 +1,18 @@
+.label{
+    width: 27rem;
+    height: 16px;
+    left: calc(50% - 34px/2 - 605px);
+    top: calc(50% - 16px/2 - 183px);
+    
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    margin: 8px;
+    color: #414042;
+
+
+}

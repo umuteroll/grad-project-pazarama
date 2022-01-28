@@ -1,0 +1,22 @@
+.floatContainer {
+    position: relative;
+}
+
+.adminLoginForm {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.adminLogin{
+    margin-top: 2%;
+    margin-left: 32rem;
+    margin-bottom: 1rem;
+    height: 60px;
+    width: 600px;
+    border: 0.1rem solid #a19f9f;
+    border-radius: 0.7rem;
+    font-family: inherit;
+    font-size: 1.4rem;
+}

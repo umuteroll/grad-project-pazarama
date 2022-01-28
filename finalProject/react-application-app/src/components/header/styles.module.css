@@ -1,0 +1,16 @@
+.header {
+    display: grid;
+    grid-template-columns: [logo-start] 6fr [logo-end navbar-start] 2fr [navbar-end];
+    padding: 1rem 4rem;
+    background:#424874;
+    height: 5rem;
+}
+.logo {
+  margin-top: 0.3%;
+  float: left;
+  font-size: 25px;
+  color: white;
+}
+.links {
+  margin-top: 3.5%
+}

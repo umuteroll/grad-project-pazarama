@@ -1,0 +1,22 @@
+.row {
+    display: grid;
+    grid-template-columns: 20rem 30rem;
+    grid-column-gap: 2rem;
+    -webkit-column-gap: 2rem;
+    column-gap: 2rem;
+}
+
+.rowLabel {
+    font-size: 1.2rem;
+    margin: 10px -45% 30px 20%;
+    text-align: left;
+
+}
+
+.rowDetail {
+    font-size: 1.1rem;
+    margin:10px 80% 30px 0px;
+    width: 60%;
+    word-wrap: break-word;
+    text-align: left;
+}

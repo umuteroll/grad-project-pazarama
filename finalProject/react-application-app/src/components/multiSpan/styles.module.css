@@ -1,0 +1,21 @@
+.spanContainer {
+    height: 2.5rem;
+    margin-left: 14rem;
+    width: 70rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 1px 3px 0 rgb(0 0 0 / 2%), 0 0 0 1px rgb(27 31 35 / 15%);
+    background-color: #e5e9e7;
+    border: 1px solid transparent;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.ticketSpan {
+    width: 22rem;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 600;
+}

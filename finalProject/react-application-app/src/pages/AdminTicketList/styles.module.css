@@ -1,0 +1,24 @@
+.listContainer {
+    display: grid;
+    grid-template-rows: 5rem -webkit-min-content;
+    grid-template-rows: 5rem min-content;
+    grid-row-gap: 2rem;
+    row-gap: 2rem;
+}
+
+.listHeader {
+    align-self: center;
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.5rem;
+    font-weight: 700;
+    border-bottom: 1px solid #484848;
+    margin: 14rem;
+}
+
+.listBody {
+    display: grid;
+    grid-template-rows: auto;
+    grid-row-gap: 1rem;
+    row-gap: 1rem;
+}

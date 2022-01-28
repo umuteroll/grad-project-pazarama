@@ -1,0 +1,31 @@
+ 
+  
+  .formInput, .txtArea {
+    height: 40px;
+    padding: 0.5rem 1rem;
+    border: 0.1rem solid #a19f9f;
+    border-radius: 0.5rem;
+    font-family: inherit;
+    font-size: 1.4rem;
+    width: 90%;
+    margin: 10px;
+
+  }
+  .form{
+    display: flex;
+    align-content: space-around;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-top: 10rem;
+}
+.main{
+    flex-direction: row;
+}
+
+.formLeft, .formRight { width: 46%; display: flex;  flex-direction: column; }  
+.formLeft  {float: left; }  
+.formRight {float: right; margin-right: 4.6rem;}
+
+.txtArea{
+    height: 120px;
+}
